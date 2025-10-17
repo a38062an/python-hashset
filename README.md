@@ -2,7 +2,7 @@
 
 Efficient implementations of Binary Search Trees and Hash Sets in Python with collision handling and performance benchmarking.
 
-## Documentationn-hashset# python-hashset
+## Documentation-hashset python-hashset
 
 Efficient hash set implementation in Python. Includes custom hash functions, collision resolution, and benchmarking against other data structures.”
 
